@@ -43,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tharaniguru/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
