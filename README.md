@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Tharaniguru/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tharaniguru/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharaniguru/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## String
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Tharaniguru/LeetCode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Tharaniguru/LeetCode/tree/master/0176-second-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Tharaniguru/LeetCode/tree/master/0183-customers-who-never-order) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
