@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tharaniguru/LeetCode/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/Tharaniguru/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tharaniguru/LeetCode/tree/master/0283-move-zeroes) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Tharaniguru/LeetCode/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
@@ -63,4 +65,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
