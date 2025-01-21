@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tharaniguru/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tharaniguru/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharaniguru/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Tharaniguru/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Tharaniguru/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
