@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Tharaniguru/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Tharaniguru/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharaniguru/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -86,4 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Brainteaser
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Tharaniguru/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Simulation
+|  |
+| ------- |
+| [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Tharaniguru/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
