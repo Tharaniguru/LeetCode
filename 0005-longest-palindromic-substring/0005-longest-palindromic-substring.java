@@ -1,7 +1,7 @@
 class Solution {
     public String longestPalindrome(String s) {
         if(s==null ||s.length()<0)return "";
-       int start=0;
+       int start=0,end=0;
     int max=1;
     for(int i=0;i<s.length();i++)
     {
@@ -13,10 +13,11 @@ class Solution {
         {
             max=len;
             start=i-(len-1)/2;
+            end=i+(len)/2;
         }
 
     }
-    return s.substring(start,start+max);
+    return s.substring(start,end+1);
              
     }
     public static int calc(String s,int left,int right )
