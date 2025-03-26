@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharaniguru/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Database
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 ## Brainteaser
 |  |
 | ------- |
@@ -105,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Greedy
+|  |
+| ------- |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+## Enumeration
+|  |
+| ------- |
+| [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
