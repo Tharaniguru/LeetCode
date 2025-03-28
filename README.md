@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Tharaniguru/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Tharaniguru/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/Tharaniguru/LeetCode/tree/master/2290-removing-minimum-number-of-magic-beans) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Tharaniguru/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Database
 |  |
 | ------- |
