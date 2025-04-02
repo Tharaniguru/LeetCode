@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Tharaniguru/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharaniguru/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1002-maximum-width-ramp](https://github.com/Tharaniguru/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Tharaniguru/LeetCode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1755-defuse-the-bomb](https://github.com/Tharaniguru/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Tharaniguru/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/Tharaniguru/LeetCode/tree/master/0283-move-zeroes) |
+| [1002-maximum-width-ramp](https://github.com/Tharaniguru/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Tharaniguru/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -94,10 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/Tharaniguru/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/Tharaniguru/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Prefix Sum
 |  |
 | ------- |
