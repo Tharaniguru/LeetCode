@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharaniguru/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/Tharaniguru/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Tharaniguru/LeetCode/tree/master/0242-valid-anagram) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Counting
