@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharaniguru/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Tharaniguru/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Tharaniguru/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Tharaniguru/LeetCode/tree/master/0242-valid-anagram) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Tharaniguru/LeetCode/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -94,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharaniguru/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Tharaniguru/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharaniguru/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Tharaniguru/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tharaniguru/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1002-maximum-width-ramp](https://github.com/Tharaniguru/LeetCode/tree/master/1002-maximum-width-ramp) |
 ## Monotonic Stack
