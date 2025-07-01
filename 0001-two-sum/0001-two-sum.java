@@ -1,17 +1,23 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer ,Integer> twosum=new HashMap<>();
         int n=nums.length;
-        int i,j;
-        for(i=0;i<n;i++){
-            for(j=i+1;j<n;j++){
-                int sum=nums[i]+nums[j];
-                if(sum==target){
-                int []arr={i,j};
-                return arr;
-                }
-            }
+        // Arrays.sort(nums);        
+        for(int i=0;i<n;i++){
+            twosum.put(nums[i],i);
         }
-        throw new IllegalArgumentException("No two sum solution"); 
-    }
+        int ans[]=new int[2];
+        // int k=0;
+        for(int i=0;i<n;i++){
 
+            int comp=target-nums[i];
+            if(twosum.containsKey(comp) && twosum.get(comp) != i){
+                ans[0]=i;
+                ans[1]=twosum.get(comp);
+            }
+
+        }
+        return ans;
+        
+    }
 }
