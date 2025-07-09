@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharaniguru/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Tharaniguru/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tharaniguru/LeetCode/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Tharaniguru/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Tharaniguru/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/Tharaniguru/LeetCode/tree/master/0242-valid-anagram) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Tharaniguru/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Tharaniguru/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tharaniguru/LeetCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Tharaniguru/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Tharaniguru/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tharaniguru/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Tharaniguru/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Tharaniguru/LeetCode/tree/master/0268-missing-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tharaniguru/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Tharaniguru/LeetCode/tree/master/3422-find-the-n-th-value-after-k-seconds) |
