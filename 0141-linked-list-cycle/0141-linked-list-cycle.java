@@ -18,12 +18,8 @@ public class Solution {
             slow=slow.next;
             fast=fast.next.next;
             if(slow==fast){
-                flag=1;
-                break;
+                return true;
             }
-        }
-        if(flag==1){
-            return true;
         }
         return false;
     }
